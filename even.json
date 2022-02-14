@@ -1,0 +1,241 @@
+[
+    {
+        "sunday": {
+            "breakfast": [
+                "ALOO PARANTHA",
+                "CURD,PICKLE",
+                "EGG/BANANA",
+                "WHEAT BREAD",
+                "BUTTER JAM",
+                "TEA/COFFEE/MILK"
+            ],
+            "lunch": [
+                "CHAPATTI",
+                "KADAI VEG",
+                "BRIYANI",
+                "CHICKEN GRAVE -NONVEG",
+                "KADAI PANNER -VEG",
+                "ONION RAITHA",
+                "PICKLE/SUGAR/SALT"
+            ],
+            "snacks": [
+                "VEG PUFF TOMATO SAUCE",
+                "TEA/COFFEE/MILK"
+            ],
+            "dinner": [
+                "PHULKA, WHITE RICE",
+                "MIX VEG SAMBAR",
+                "GOBI MANCHURIAN DRY",
+                "IVY GOURD CURRY",
+                "TOMATO RASAM",
+                "PAPAD",
+                "PICKLE/SUGAR/SALT",
+                "BANANA"
+            ]
+        },
+        "monday": {
+            "breakfast": [
+                "IDDLY",
+                "VADA",
+                "GROUNDNUT CHUTNEY",
+                "SAMBAR",
+                "OMLET/BANANA",
+                "WHEAT BREAD",
+                "BUTTER JAM",
+                "TEA/COFFEE/MILK"
+            ],
+            "lunch": [
+                "MATHI CHAPATTI",
+                "CHOLE MASALA",
+                "WHITE RICE",
+                "VEG DHALL",
+                "BHINDY MASALA",
+                "CURD",
+                "PAPAD",
+                "PICKLE/SUGAR/SALT",
+                "VEG SALAD"
+            ],
+            "snacks": [
+                "RAW BANANA BAJJIONION CHOPPAD",
+                "TEA/COFFEE/MILK"
+            ],
+            "dinner": [
+                "CHAPATTI ",
+                "SAMBAR RICE",
+                "GAJAR SUVA SABZI DRY",
+                "ALOO MUTTER MASALA",
+                "PAPAD",
+                "PICKLE/SUGAR/SALT",
+                "BADAM MILK"
+            ]
+        },
+        "tuesday": {
+            "breakfast": [
+                "VEG NOODLES",
+                "TOMATTO KETCHUP",
+                "EGG/BANANA",
+                "WHEAT BREAD",
+                "BUTTER JAM",
+                "TEA/COFFEE/MILK"
+            ],
+            "lunch": [
+                "CHAPATTI ,WHITE  RICE",
+                "PANCHRATNA DAL ",
+                "ALOO JEERA",
+                "VATHAKOLAMBU",
+                "PARUPUPODI OIL",
+                "Fryums,CURD",
+                "PICKLE/SUGAR/SALT",
+                "SPROUT SALAD"
+            ],
+            "snacks": [
+                "SAMOSA KETCHUP",
+                "TEA/COFFEE/MILK"
+            ],
+            "dinner": [
+                "PHULKA, WHITE RICE",
+                "TOMATO RICE",
+                "PINEAPPLE RASAM",
+                "Mix veg curry",
+                "CURD",
+                "PUDINA THOVAIL",
+                "PICKLE/SUGAR/SALT",
+                "BREAD CUSTRED"
+            ]
+        },
+        "wednesday": {
+            "breakfast": [
+                "PLAIN DOSA",
+                "COCONUT CHUTTNEY",
+                "ALOO MASALA",
+                "OMLET/BANANA",
+                "WHEAT BREAD",
+                "BUTTER JAM",
+                "TEA/COFFEE/MILK"
+            ],
+            "lunch": [
+                "CHAPATTI",
+                "CHILLY SOYA BEAN DRY",
+                "WHITE RICE",
+                "DALL PALACK",
+                "PEPPER RASAM, CURD",
+                "MASALAPAPAD",
+                "PICKLE/SUGAR/SALT"
+            ],
+            "snacks": [
+                "DHOKLA",
+                "TEA/COFFEE/MILK"
+            ],
+            "dinner": [
+                "CHAPATTI ,WHITE RICE",
+                "FISH CURRY",
+                "PANNER BUTTER MASALA",
+                "BEETROOT COCONUT Poriyal",
+                "MIXED DALL",
+                "CURD/FRYUMS",
+                "PICKLE/SUGAR/SALT"
+            ]
+        },
+        "thursday": {
+            "breakfast": [
+                "PONGAL VADA",
+                "WHITE CHUTNEY",
+                "SAMBAR",
+                "EGG/BANANA",
+                "WHEAT BREAD",
+                "BUTTER JAM",
+                "TEA/COFFEE/MILK"
+            ],
+            "lunch": [
+                "CORIANDER LEAF CHAPATTI",
+                "MOSOOR DALL",
+                "WHITE RICE",
+                "ALOOGOBI DRY",
+                "LEMON RASAM, CURD",
+                "PAPAD",
+                "PICKLE/SUGAR/SALT",
+                "BEETROOT SALAD"
+            ],
+            "snacks": [
+                "BREAD BAJJI",
+                "TEA/COFFEE/MILK"
+            ],
+            "dinner": [
+                "CHAPATTI , WHITE RICE",
+                "PALACK SAGU GRAVY",
+                "MOONG DHALL",
+                "KADAI VEGETABLE DRY",
+                "GARLIC RASAM",
+                "FRYUMS",
+                "PICKLE/SUGAR/SALT",
+                "GULAB JAMUN"
+            ]
+        },
+        "friday": {
+            "breakfast": [
+                "PESARATTU/SOOJI UPMA",
+                "GINGER CHUTTNEY",
+                "EGG/BANANA",
+                "WHEAT BREAD",
+                "BUTTER JAM",
+                "TEA/COFFEE/MILK"
+            ],
+            "lunch": [
+                "CHAPATTI",
+                "WHITE RICE, SAMBAR RICE ",
+                "NAVRATAN KORMA CURRY ",
+                "BRINJAL CURRY",
+                "TOMATO RASAM, CURD",
+                "FRYUMS",
+                "PICKLE/SUGAR/SALT",
+                "VEG SALAD"
+            ],
+            "snacks": [
+                "SPL VADA",
+                "TEA/COFFEE/MILK"
+            ],
+            "dinner": [
+                "PHULKA, WHITE RICE",
+                "TOMATO TOORDALL",
+                "CABBAGE PEAS CURRY",
+                "PAPAD",
+                "PICKLE/SUGAR/SALT",
+                "FLAVOURED MILK"
+            ]
+        },
+        "saturday": {
+            "breakfast": [
+                "POORI",
+                "CHANNA MASALA",
+                "OMLET/BANANA",
+                "WHEAT BREAD",
+                "BUTTER JAM",
+                "TEA/COFFEE/MILK"
+            ],
+            "lunch": [
+                "MINT CHAPATTI,WHITE RICE",
+                "DOODHI CHANNA",
+                "TOOR DHAAL",
+                "CABBAGE MASALA",
+                "GARLIC RASAM",
+                "CURD",
+                "PICKLE/SUGAR/ SALT",
+                "SPROUTSALAD"
+            ],
+            "snacks": [
+                "ONION PAKODA KETCHUP",
+                "TEA/COFFEE/MILK"
+            ],
+            "dinner": [
+                "CHAPATTI",
+                "WHITE RICE",
+                "GREENMOONG DHALL",
+                "VEG MALAI KOFTA",
+                "CURD RICE",
+                "PICKLE",
+                "SUGAR/SALT",
+                "FRUIT KESARI"
+            ]
+        }
+    }
+]

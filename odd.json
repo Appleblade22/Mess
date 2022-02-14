@@ -1,0 +1,274 @@
+[
+    {
+        "sunday": {
+            "breakfast": [
+                "VEG MUGHLAI PARATHA",
+                "CURD",
+                "PICKLE",
+                "EGG/BANANA",
+                "WHEAT BREAD",
+                "BUTTER JAM",
+                "TEA/COFFEE/MILK"
+            ],
+            "lunch": [
+                "CHAPATTI",
+                "CHICKEN BRIYANI -NONVEG",
+                "VEG BRIYANI ",
+                "PANNER BUTTER MASALA",
+                "KADAI VEG",
+                "ONION RAITHA",
+                "PICKLE/SUGAR/SALT"
+            ],
+            "snacks": [
+                "DHOKLA",
+                "TEA/COFFEE/MILK"
+            ],
+            "dinner": [
+                "PHULKA, WHITE RICE",
+                "MOONG DAL",
+                "BARBATI CURRY",
+                "BHINDI FRY",
+                "TOMATO RASAM",
+                "PAPAD",
+                "PICKLE/SUGAR/SALT",
+                "GULABJUMUN"
+            ]
+        },
+        "monday": {
+            "breakfast": [
+                "RAVA DOSA",
+                "ONION TOMATTO CHUTNEY",
+                "SAMBAR",
+                "OMLET/BANANA",
+                "WHEAT BREAD",
+                "BUTTER JAM",
+                "TEA/COFFEE/MILK"
+            ],
+            "lunch": [
+                "MINT CHAPATTI",
+                "GREEN MOONG DHALL",
+                "WHITE RICE",
+                "VATHAKOLAMBU",
+                "PODI",
+                "ALOO CAPCICUM",
+                "CURD",
+                "PAPAD",
+                "PICKLE/SUGAR/SALT",
+                "SPROUT SALAD"
+            ],
+            "snacks": [
+                "ALOO SANDWICH",
+                "MINT CHUTNEY KETCHUP",
+                "TEA/COFFEE/MILK"
+            ],
+            "dinner": [
+                "CHAPATTI",
+                "WHITE RICE",
+                "SAMBAR RICE",
+                "LAUKI MASALA KOFTA",
+                "PINEAPPLE RASAM",
+                "PAPAD",
+                "MANGOPICKLE",
+                "PICKLE/SUGAR/SALT",
+                "BADAM MILK"
+            ]
+        },
+        "tuesday": {
+            "breakfast": [
+                "GREEN POORI",
+                "ALOO MASALA",
+                "EGG-1NO/BANANA 1NO",
+                "WHEAT BREAD",
+                "BUTTER JAM",
+                "TEA/COFFEE/MILK"
+            ],
+            "lunch": [
+                "CHAPATTI ",
+                "WHITE RICE",
+                "PALACK SAAG CURRY",
+                "LADIES FINGER SAMBAR",
+                "Fryums,CURD",
+                "PICKLE/SUGAR/SALT",
+                "CARROT/TOMATO SALAD"
+            ],
+            "snacks": [
+                "KACHODI KETCHUP",
+                "TEA/COFFEE/MILK"
+            ],
+            "dinner": [
+                "PHULKA, WHITE RICE",
+                "TAMARIND/LEMON RICE",
+                "PANCHRATNA DAL",
+                "RAW BANANA DRY",
+                "PEPPER RASAM, PUDINA THOVAIL",
+                "PICKLE/SUGAR/SALT",
+                "Jilebi/SAMIYA PAYASAM"
+            ]
+        },
+        "wednesday": {
+            "breakfast": [
+                "POHA",
+                "COCONUT CHUTTNEY",
+                "SAMBAR",
+                "OMLET 1NO /BANANA 1NO",
+                "WHEAT BREAD",
+                "BUTTER JAM",
+                "TEA/COFFEE/MILK"
+            ],
+            "lunch": [
+                "CHAPATTI",
+                "COCONUT MILAGAI PODI",
+                "WHITE RICE ,TOOR DHAAL",
+                "ALOO 65",
+                "LEMON RASAM, CURD",
+                "MASALAPAPAD",
+                "PICKLE/SUGAR/SALT",
+                "CUCUMBER SALAD"
+            ],
+            "snacks": [
+                "CHILLI BAJJI",
+                "TEA/COFFEE/MILK"
+            ],
+            "dinner": {
+                "menu1": [
+                    "SOUP",
+                    "DIMEND  PARANTA",
+                    "Chicken grave- non veg",
+                    "PANNER BUTTER MASALA -VEG",
+                    "VEG FRIED RICE",
+                    "VEG MANJURIAN",
+                    "TOMATTO KETCHUP",
+                    "CURD RICE, PICKLE",
+                    "FRUIT CUSTARD"
+                ],
+                "menu2": [
+                    "SOUP",
+                    "MASALA CHAPPATHI",
+                    "GOBI MANJURIAN",
+                    "KASHMIRIPULAO",
+                    "BUTER CHICKEN",
+                    "MATAR PANNER",
+                    "RAITHA",
+                    "SAMBAR",
+                    "SWEET",
+                    "PIKLE"
+                ],
+                "menu3": [
+                    "SOUP",
+                    "CHAPPATHI",
+                    "CHANNAMASALA",
+                    "BISIBRLLABATH",
+                    "BUTTER CHICKEN",
+                    "CHILLY,PANNER ",
+                    "ALOO PEAS MASALA DRY",
+                    "CURD RICE",
+                    "FRYUMS",
+                    "SWEET"
+                ]
+            }
+        },
+        "thursday": {
+            "breakfast": [
+                "MASALA PARATHA",
+                "ONION RAITHA",
+                "PICKLE",
+                "EGG-1NO/BANANA 1NO",
+                "WHEAT BREAD",
+                "BUTTER JAM",
+                "TEA/COFFEE/MILK"
+            ],
+            "lunch": [
+                "MATHI CHAPATTI, WHITE RICE",
+                "MOONG DHALL",
+                "KARAKOLAMBU",
+                "MALAI KOFTA CURRY",
+                "CURD",
+                "PAPAD",
+                "PICKLE/SUGAR/SALT",
+                "SALAD"
+            ],
+            "snacks": [
+                "ALLO BONDA CHUTNEY",
+                "TEA/COFFEE/MILK"
+            ],
+            "dinner": [
+                "CHAPATTI,WHITE RICE",
+                "VERITY RICE",
+                "TOMATTO DHALL",
+                "MEAL MAKER CURRY",
+                "GARLIC RASAM",
+                "FRYUMS",
+                "PICKLE/SUGAR/SALT",
+                "SEASONAL FRUITS"
+            ]
+        },
+        "friday": {
+            "breakfast": [
+                "ONION DOSA",
+                "SAMBAR",
+                "GROUNDNUT CHUTNEY",
+                "EGG-1NO/BANANA 1NO",
+                "WHEAT BREAD",
+                "BUTTER JAM",
+                "TEA/COFFEE/MILK"
+            ],
+            "lunch": [
+                "CHAPATTI",
+                "WHITE RICE, SAMBAR RICE ",
+                "RAJMA MASALA",
+                "IVY GOURD FRY",
+                "TOMATO RASAM, CURD",
+                "FRYUMS",
+                "PICKLE/SUGAR/SALT",
+                "BEETROOT SALAD"
+            ],
+            "snacks": [
+                "CURD VADA",
+                "TEA/COFFEE/MILK"
+            ],
+            "dinner": [
+                "PHULKA, WHITE RICE",
+                "BRINJAL SAMBAR",
+                "BEETROOT COCONUT PORIAL",
+                "ALOO MUTTER PANNER ",
+                "PAPAD",
+                "PICKLE/SUGAR/SALT",
+                "FLAVOURED MILK"
+            ]
+        },
+        "saturday": {
+            "breakfast": [
+                "PLAIN IDLY VADA",
+                "WHITE CHUTNEY",
+                "SAMBAR",
+                "OMLET 1NO /BANANA 1NO",
+                "WHEAT BREAD",
+                "BUTTER JAM",
+                "TEA/COFFEE/MILK"
+            ],
+            "lunch": [
+                "CHAPATTI, WHITE RICE",
+                "NAVRATANA KORMA",
+                "smbar",
+                "CHILLY SOYA BEAN ",
+                "PEPPER RASAM",
+                "CURD",
+                "PICKLE/SUGAR/ SALT",
+                "SPROUT SALAD"
+            ],
+            "snacks": [
+                "FRINCH FRIES TOMATO KETCHUP",
+                "TEA/COFFEE/MILK"
+            ],
+            "dinner": [
+                "DOSA",
+                "TOOR DHALL",
+                "GROUNDNUT CHUTNEY",
+                "WHITE RICE",
+                "GONGURA PICKLE",
+                "SUGAR/SALT",
+                "FRUITS KESARI"
+            ]
+        }
+    }
+]

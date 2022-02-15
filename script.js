@@ -357,8 +357,7 @@ let data1 = [
                 "WHITE RICE",
                 "PALACK SAAG CURRY",
                 "LADIES FINGER SAMBAR",
-                "Fryums",
-                "CURD",
+                "Fryums,CURD",
                 "PICKLE/SUGAR/SALT",
                 "CARROT/TOMATO SALAD"
             ],
@@ -560,11 +559,12 @@ function build() {
 
         build_table_snacks(eval(storage2[day][2]));
 
-        build_table_dinner(eval(storage2[day][3]));
         if (day === 3) {
-            build_table_dinner(eval(storage2[day][4]));
-
-            build_table_dinner(eval(storage2[day][5]));
+            let ez = random_no();
+            build_table_dinner(eval(storage2[day][ez]));
+        }
+        else {
+            build_table_dinner(eval(storage2[day][3]));
         }
 
     }
@@ -608,5 +608,10 @@ function build_table_snacks(data) {
         let cell1 = row.insertCell(0);
         cell1.innerHTML = data[i];
     }
+}
+//random no generator 3 to 5
+function random_no() {
+    let x = Math.floor(Math.random() * 3) + 3;
+    return x;
 }
 build();

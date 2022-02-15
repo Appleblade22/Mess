@@ -357,7 +357,8 @@ let data1 = [
                 "WHITE RICE",
                 "PALACK SAAG CURRY",
                 "LADIES FINGER SAMBAR",
-                "Fryums,CURD",
+                "Fryums",
+                "CURD",
                 "PICKLE/SUGAR/SALT",
                 "CARROT/TOMATO SALAD"
             ],

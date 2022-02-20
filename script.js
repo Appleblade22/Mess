@@ -8,7 +8,7 @@ let day = currentdate.getDay();
 
 console.log(day);
 let storage = [
-    ["data[0].sunday.breakfast", "data[0].sunday.lunch", "data[0].sunday.snacks", "data[0].sunday.dinner"],
+    ["data1[0].sunday.breakfast", "data1[0].sunday.lunch", "data1[0].sunday.snacks", "data1[0].sunday.dinner"],
     ["data[0].monday.breakfast", "data[0].monday.lunch", "data[0].monday.snacks", "data[0].monday.dinner"],
     ["data[0].tuesday.breakfast", "data[0].tuesday.lunch", "data[0].tuesday.snacks", "data[0].tuesday.dinner"],
     ["data[0].wednesday.breakfast", "data[0].wednesday.lunch", "data[0].wednesday.snacks", "data[0].wednesday.dinner"],
@@ -17,7 +17,7 @@ let storage = [
     ["data[0].saturday.breakfast", "data[0].saturday.lunch", "data[0].saturday.snacks", "data[0].saturday.dinner"]
 ];
 let storage2 = [
-    ["data1[0].sunday.breakfast", "data1[0].sunday.lunch", "data1[0].sunday.snacks", "data1[0].sunday.dinner"],
+    ["data[0].sunday.breakfast", "data[0].sunday.lunch", "data[0].sunday.snacks", "data[0].sunday.dinner"],
     ["data1[0].monday.breakfast", "data1[0].monday.lunch", "data1[0].monday.snacks", "data1[0].monday.dinner"],
     ["data1[0].tuesday.breakfast", "data1[0].tuesday.lunch", "data1[0].tuesday.snacks", "data1[0].tuesday.dinner"],
     ["data1[0].wednesday.breakfast", "data1[0].wednesday.lunch", "data1[0].wednesday.snacks", "data1[0].wednesday.dinner.menu1", "data1[0].wednesday.dinner.menu2", "data1[0].wednesday.dinner.menu3"],
